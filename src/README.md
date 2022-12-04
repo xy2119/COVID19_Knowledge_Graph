@@ -18,11 +18,11 @@
     │   └── README.md    
     │
     ├── 2_word_representation                  
-    │   └── n-gram         
-    │       ├── n_gram.py 
-    │       ├── n_gram_word2id.txt         
-    │       └── README.md 
-    │
+    │   ├── n-gram         
+    │   │   ├── n_gram.py 
+    │   │   ├── n_gram_word2id.txt         
+    │   │   └── README.md 
+    │   │
     │   └── skip_gram         
     │       ├── skip_gram.py 
     │       ├── new_w2v.model 
@@ -38,4 +38,4 @@
     │   ├── bio_dict
     │   └── README.md    
     │ 
-
+    
