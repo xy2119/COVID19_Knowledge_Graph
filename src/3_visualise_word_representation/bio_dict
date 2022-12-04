@@ -1,0 +1,25 @@
+t_endocrine=['adrenal gland','thyroid','parathyroid','pancreatic','pituitary','ovarian','testicular','tuberculosis','diabetes']
+
+t_respiratory=['bronchitis','tracheitis','lung','fibrosis','pulmonary','infarction','nodule','alveolar','pleural','tuberculosis','apnea','hypoxia','cough','dyspnea','hemoptysis','snoring','hypocapnia','asthma','hyperventilation','distress','sneezing','tachypnea']
+
+t_eye_ear_nose=['ocular','nystagmus','photophobia','conjunctivitis','corneal','amblyopia','auditory','hearing loss','otitis','tympanic','tinnitus','anosmia','olfactory','sinus','nasal','rhinorrhea','laryngeal','pharyngeal','vocal cord','cystic','influenza','hoarseness','aphonia', 'hypoglossal','gustatory','taste','oral hemorrhage','polydipsia']
+ 
+t_meta=['metabolic','dehydration','wasting','mitochondrial disease','hepatic encephalopathy','hypoglycemia','malnutrition']
+
+t_digest=['abdominal pain','gastritis','gastroenteritis','biliary','aerophagy','starvation','anorexia','constipation','diarrhea','dyspepsia','encopresis','eructation','flatulence','food intolerance','gagging','halitosis','heartburn','hiccup','hyperphagia','anepithymia','nausea','pica','vomiting']
+
+t_nerve=['causalgia','atrophy','headaches','hypothermia','hyperthermia','vertigo','syncope','amnesia','alzheimer','dementia','epilepsy','tetany','hypesthesia','paresthesia','spasm','paralysis','fatigue','insomnia']
+
+t_heart=['arrhythmias','heart arrest','heart attack','cardiomyopathy','cardiotoxicity','cardiac output','transfusion','myocardial']
+
+t_vascular=['hypotension','hypertension','cerebellar','spinocerebellar','cerebrovascular','stroke','carotid artery','syphilis','vasospasm','intracranial hemorrhage','hypothalamic', 'hemolytic','lupus','aneurysm','vasculitis','hemangioma','encephalomyelitis','myelitis','encephalomyelitis','meningitis','encephalitis','myeloma','hyperplasia','lymphoma','veno-occlusive','angioedema']
+
+t_blood=['anemia','platelet','immunoglobulin','leukopenia','thrombocytopenia','leukemia','phagocyte','thrombotic','sepsis']
+
+t_bone_muscle=['arthritis','arthrogryposis','muscle spasticity','cartilage','fasciitis','myositis','hemarthrosis','hydrarthrosis','osteoarthropathy']
+
+t_skin=['dermatitis','eczema','exanthema','hypotrichosis','keratosis','pruritus','vesiculobullous','ulcer','cellulite','ecchymosis','erythema', 'jaundice','livedo Reticularis','pallor','pruritus','purpura','striae distensae','lipedema']
+
+t_urology=['hypercalciuria','urinary tract','urinary bladder','oliguria','polyuria','proteinuria','urinoma','lithiasis']
+
+t_infection=['asymptomatic','bacterial','fungal','parasitic','sepsis,'community-Acquired','sextually-transmitted','focal','communicable','cross','HIV'] 
