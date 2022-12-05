@@ -2,10 +2,20 @@
 ## 🏆 Submission to The 2021 Imperial College Data Science Challenge
 
 
-In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action to apply text and data mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to investigate medical and scientific information repositories based on word representations and relational graphs.
+In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information and construct repositories based on semantic representations and graphs.
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
+Search Engine and Named Entity Recognition tasks were carried out.
+
+`./src` is the submission source code in Pytorch. 
+
+Workflow for Semantic Search Engine, can be followed here.
+
+![image](./images/semantic_engine.png)
+
+Workflow for Named Entity Recognition, can be followe here.
+![image](./images/bio_ner.png)
 
 ## Dataset
 [COVID-19 Open Research Dataset (CORD-19)](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) is a resource of over 1,000,000 scholarly articles, including over 400,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
@@ -77,11 +87,11 @@ The following are the major open source packages utilised in this project:
 
 ## 🎯 RoadMap
 
-### Model Training
+Follow [notebooks](./notebooks) in Google Colab 
 
 
 ## Future Work
-
+Create Neo4j knowledge graphs for coronavirus literatures.
 
 ## Contributing
 If you have any questions or suggestions towards this repository, feel free to contact me at xy2119@ic.ac.uk.
