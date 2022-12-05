@@ -6,9 +6,8 @@ In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Langu
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
-Search Engine and Named Entity Recognition tasks were carried out.
 
-`./src` is the submission source code in Pytorch. 
+**Semantic Search** and **Named Entity Recognition** tasks were carried out.
 
 Workflow for Semantic Search Engine, can be followed here.
 
@@ -87,7 +86,9 @@ The following are the major open source packages utilised in this project:
 
 ## 🎯 RoadMap
 
-Follow [notebooks](./notebooks) in Google Colab 
+`./src` is the submission source code in Pytorch. 
+
+Follow [end-to-end notebooks](./notebooks) in Google Colab 
 
 
 ## Future Work
