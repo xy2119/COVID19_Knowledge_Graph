@@ -7,7 +7,7 @@ In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Langu
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
-**Semantic Search** and **Named Entity Recognition** tasks were carried out.
+**Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT and BERN.
 
 Workflow for Semantic Search Engine, can be followed here.
 
