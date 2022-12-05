@@ -26,8 +26,8 @@ Workflow for Named Entity Recognition, can be followe here.
 
 <!--This project is written in Python programming language. <br>-->
 The following are the major open source packages utilised in this project:
-* Numpy
-* Pandas
+* NLTK
+* SpaCy
 * Matplotlib
 * Scikit-Learn
 * Pytorch
@@ -86,9 +86,8 @@ The following are the major open source packages utilised in this project:
 
 ## 🎯 RoadMap
 
-`./src` is the submission source code in Pytorch. 
-
 Follow [end-to-end notebooks](./notebooks) in Google Colab 
+`./src` is the submission source code in Pytorch
 
 
 ## Future Work
