@@ -2,7 +2,7 @@
 ## 🏆 Submission to The 2021 Imperial College Data Science Challenge
 
 
-In response to the COVID-19 pandemic, **[2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/)** issued a call to action to apply text and data mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to investigate medical and scientific information repositories based on word representations and relational graphs.
+In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action to apply text and data mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to investigate medical and scientific information repositories based on word representations and relational graphs.
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
