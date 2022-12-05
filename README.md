@@ -1,5 +1,5 @@
 # COVID19 Knowledge Representation and Search Engine
-## 🏆 Submission to The 2021 Imperial College Data Science Challenge
+## 📌 Submission to The 2021 Imperial College Data Science Challenge
 
 
 In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information and construct repositories based on semantic representations and graphs.
@@ -87,6 +87,7 @@ The following are the major open source packages utilised in this project:
 ## 🎯 RoadMap
 
 Follow [end-to-end notebooks](./notebooks) in Google Colab 
+
 `./src` is the submission source code in Pytorch
 
 
