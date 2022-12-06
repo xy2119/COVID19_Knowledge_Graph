@@ -2,12 +2,12 @@
 ## 📌 Submission to The 2021 Imperial College Data Science Challenge
 
 
-In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information and construct knowledge graphs based on semantic representation.
+In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information to construct knowledge graphs.
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
-**Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT. The extracted entities and relationships from the titles and abstracts of the literature eventually contributed to the building of the Covid 19 knowledge graph.
+**Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT. The extracted entities and relationships from the titles and abstracts of the literature eventually contributed to the building of the Covid 19 Knowledge Graph.
 
 Semantic Search Engine Workflow     [`notebook`](./notebooks/Covid19_Search_Engine_BioBERT.ipynb)
 
@@ -92,7 +92,8 @@ Follow [end-to-end notebooks](./notebooks) in Google Colab
 
 
 ## Future Work
-Create Neo4j knowledge graphs for coronavirus literatures.
+Pretrain GNN to learn graph representation of the knowledge base to improve current search engines, compare its performance with other baselines.
+
 
 ## Contributing
 If you have any questions or suggestions towards this repository, feel free to contact me at xy2119@ic.ac.uk.
