@@ -2,12 +2,12 @@
 ## 📌 Submission to The 2021 Imperial College Data Science Challenge
 
 
-In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information and construct repositories based on semantic representations and graphs.
+In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Language Processing Challenge](https://www.imperial.ac.uk/data-science/) issued a call to action for researchers to apply text mining approaches to keep up with the exponential growth of coronavirus literature. Our goal is to is to retrieve biomedical information and construct knowledge graphs based on semantic representation.
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
-**Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT and BERN.
+**Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT. The extracted entities and relationships from the titles and abstracts of the literature eventually contributed to the building of the Covid 19 knowledge graph.
 
 Semantic Search Engine Workflow     [`notebook`](./notebooks/Covid19_Search_Engine_BioBERT.ipynb)
 
@@ -17,7 +17,7 @@ Named Entity Recognition Workflow   [`notebook`](./notebooks/Covid19_NER_BioBERT
 ![image](./images/bio_ner.png)
 
 ## Dataset
-[COVID-19 Open Research Dataset (CORD-19)](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) is a resource of over 1,000,000 scholarly articles, including over 400,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
+[COVID-19 Open Research Dataset (CORD-19)](https://github.com/allenai/cord19) is a corpus of academic papers about COVID-19 and related coronavirus research. It's curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research. 
 
 
 ## Prerequisites
