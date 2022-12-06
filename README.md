@@ -1,4 +1,4 @@
-# COVID19 Knowledge Representation and Search Engine
+# COVID19 Knowledge Representation 
 ## 📌 Submission to The 2021 Imperial College Data Science Challenge
 
 
