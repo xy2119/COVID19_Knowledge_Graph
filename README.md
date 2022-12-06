@@ -9,11 +9,11 @@ In response to the COVID-19 pandemic, [2021 Data Science Institute Natural Langu
 
 **Semantic Search** and **Named Entity Recognition** tasks were carried out by finetuning BioBERT and BERN.
 
-Workflow for Semantic Search Engine, can be followed here.
+Semantic Search Engine Workflow     [`notebook`](./notebooks/Covid19_Search_Engine_BioBERT.ipynb)
 
 ![image](./images/semantic_engine.png)
 
-Workflow for Named Entity Recognition, can be followe here.
+Named Entity Recognition Workflow   [`notebook`](./notebooks/Covid19_NER_BioBERT.ipynb)
 ![image](./images/bio_ner.png)
 
 ## Dataset
