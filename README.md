@@ -37,7 +37,7 @@ The following are the major open source packages utilised in this project:
 
 <h2 id="folder-structure"> Folder Structure</h2>
 
-    code
+   
       .  
       ├── notebooks                                                       
       │    ├── Covid19_Search_Engine_BioBERT.ipynb                   
@@ -79,8 +79,9 @@ The following are the major open source packages utilised in this project:
             │   ├── semantic_sim.py                     # find entities that semantically similar with Covid 19, output > semantic_sim.txt
             │   ├── semantic_sim.txt
             │   ├── bio_dict                            # dict of biomedical entities for mapping
-            │   └── README.md    
-            . 
+            │   └── README.md  
+            │
+            └── README.md  
 
 
 
